@@ -2,7 +2,7 @@
 
 > A live, interactive simulation that shows exactly how Aviator-style betting apps manipulate players — in real time.
 
-**[🔴 Open Live Demo](https://your-username.github.io/aviator-scam-expose)**
+**[🔴 Open Live Demo](https://sundeepreddy0404.github.io/aviator-scam-exposed/)**
 
 ---
 
